@@ -36,7 +36,7 @@ Local: See [Usage](#Usage) for local setup instructions
 
 ## Screenshots
 
-![Main Screen](public/assets/media/Screenshots1.png)
+![Main Screen](public/assets/media/Screenshot1.png)
 
 ## Demo
 
