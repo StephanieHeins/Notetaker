@@ -13,8 +13,8 @@ A simple application made for a user to take notes by receiving input, saving th
 
 ## Links 
 
-Heroku: 
-Local: See [Usage](#Usage) for local setup instructions 
+* Heroku: [Notetaker](https://mysterious-peak-20203.herokuapp.com/)
+* Local: See [Usage](#Usage) for local setup instructions 
 
 ## Technologies
 
