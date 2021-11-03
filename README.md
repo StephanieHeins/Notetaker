@@ -36,7 +36,8 @@ Local: See [Usage](#Usage) for local setup instructions
 
 ## Screenshots
 
-
+[Main Screen](public/assets/media/Screenshots1.png)
 
 ## Demo
 
+[Live Demo](public/assets/media/notetakergif.gif)
